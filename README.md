@@ -1,5 +1,5 @@
 # Shooting-For-The-Stars
-A game made for CAP3032 Interactive Modeling and Animation's final project.
-Made with one other person.
-Uses the control keys to move and catch stars and avoid bats.
-Has two levels, with stars moving faster and more bats.
+1. A game made for CAP3032 Interactive Modeling and Animation's final project.
+2. Made with one other person.
+3. Uses the control keys to move and catch stars and avoid bats.
+4. Has two levels, with stars moving faster and more bats.
